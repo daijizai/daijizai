@@ -2,7 +2,7 @@
 
 I'm a Software Engineer and Agent Developer.
 
-I’m current working on [@Alibaba](https://www.alibabagroup.com/) (Beijing, China)
+I’m currently working on [@Alibaba](https://www.alibabagroup.com/) (Beijing, China)
 
 @xiaoxing@笑行
 
