@@ -10,8 +10,6 @@ I’m currently working on [@Alibaba](https://www.alibabagroup.com/) (Beijing, C
 
 - Large Language Models
 - Recommendation Systems
-- Java
-- Hand-coding
 - Vibe Coding
 
 ---
